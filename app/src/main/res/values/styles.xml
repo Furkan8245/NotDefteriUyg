@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light">
+        <!-- Uygulamanızın renkleri burada tanımlanabilir -->
+        <item name="colorPrimary">@color/my_primary_color</item>
+        <item name="colorSecondary">@color/my_secondary_color</item>
+        <item name="colorAccent">@color/my_accent_color</item>
+    </style>
+
+</resources>
